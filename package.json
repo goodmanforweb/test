@@ -1,5 +1,5 @@
 {
-  "name": "test_publish",
+  "name": "test_publish_by_mike",
   "version": "1.0.0",
   "description": "this is a test",
   "main": "index.js",
@@ -14,5 +14,7 @@
     "test"
   ],
   "author": "mike",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
 }
